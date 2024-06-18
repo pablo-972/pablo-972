@@ -15,8 +15,7 @@
 <section>
   <h3> Github stats 😺: </h3>
   <img src="https://github-readme-stats.vercel.app/api?username=pablo-972&count_private=true&show_icons=true"/>
-  <h3 align="right"> Most used languages ⌨️:</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8"/>
 </section>
 
 <h3> Connect with me 📭:</h3>
