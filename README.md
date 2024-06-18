@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
 
-<p>Welcome to my page! </br> I'm Pablo, Software Engineer and Cibersecurity student from 🇪🇸 </br> >I'm also known as Sulkaz || Dygral</p>
+<p>Welcome to my page! </br> I'm Pablo, Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || Dygral</p>
 
 <h3>Languages and Tools:</h3>
 <p align="left"> 
