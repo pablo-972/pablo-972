@@ -1,6 +1,10 @@
 <h1>Hi there👋</h1>
 
-<p>Welcome to my page! </br> I'm Pablo, Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || D?</p>
+<p>Welcome to my page! </br> I'm Pablo, Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || D?</p> </br>
+
+<h3>Certificates 🎓:</h3>
+<p>- Dedalus Datathon Andalucía 2024 participant </p>
+<p>- Introduction to Cybersecurity course by Cisco Networking Academy</p>
 
 <h3>Technologies ⚡:</h3>
 <p align="left"> 
@@ -14,7 +18,7 @@
 
 <section>
   <h3> Github stats 😺: </h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pablo-972&count_private=true&show_icons=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=pablo-972&count_private=true&show_icons=true"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8"/>
 </section>
 
