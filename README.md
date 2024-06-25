@@ -1,6 +1,6 @@
 <h1>Hi there👋</h1>
 
-<p>Welcome to my page! </br> I'm Pablo, Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || D?</p> </br>
+<p>Welcome to my page! </br> I'm Pablo, Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || D?</p> 
 
 <h3>Certificates 🎓:</h3>
 <p>- Dedalus Datathon Andalucía 2024 participant </p>
