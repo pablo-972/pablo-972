@@ -2,21 +2,21 @@
 
 <p>I'm Pablo, a Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || Dygral</p> 
 
-</hr>
+<hr>
 🚀 Projects I've Contributed To
-<ol>
-  <li><a href="https://github.com/2tank/awita"> Awita </a></li>
-  <li><a href="https://github.com/VctPerez/Chess2-UMA"> Chess2 </a> </li>
-  <li><a href="https://github.com/pablomarquezb78/how2survive"> how2survive </a> </li>
-  <li><a href="https://github.com/pablomarquezb78/GymTAW"> GymTAW </a> </li>
-</ol>
+<ul>
+<li><a href="https://github.com/2tank/awita"> Awita </a></li>
+<li><a href="https://github.com/VctPerez/Chess2-UMA"> Chess2 </a> </li>
+<li><a href="https://github.com/pablomarquezb78/how2survive"> how2survive </a> </li>
+<li><a href="https://github.com/pablomarquezb78/GymTAW"> GymTAW </a> </li>
+</ul>
 
-</hr>
+<hr>
 <h3>Certificates 🎓:</h3>
-<ol>
-  <li>Dedalus Datathon Andalucía 2024 participant </li>
-  <li>Introduction to Cybersecurity course by Cisco Networking Academy </li>
-</ol>
+<ul>
+<li>Dedalus Datathon Andalucía 2024 participant </li>
+<li>Introduction to Cybersecurity course by Cisco Networking Academy </li>
+</ul>
 
 </hr>
 <h3>Technologies ⚡:</h3>
