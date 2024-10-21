@@ -1,6 +1,5 @@
-<div style="align: center">
-<h1>Hi there!👋</h1>
-</div>
+<h1 align="center">Hi there!👋</h1>
+
 
 <p>I'm Pablo, a Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || Dygral</p> 
 
