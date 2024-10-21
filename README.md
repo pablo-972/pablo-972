@@ -34,7 +34,7 @@
 <section>
   <h3> 😺 GitHub stats: </h3>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=pablo-972&count_private=true&show_icons=true"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8"/>
+  <img background-color="#f0f0f0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8"/>
 </section>
 
 <hr>
