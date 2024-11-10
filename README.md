@@ -5,7 +5,7 @@ I'm also known as Sulkaz || Dygral
 
 
 
-<h2>🚀 Projects I've Contributed To:</h2>
+🚀 Projects I've Contributed To:
 ---
 
 - [Awita](https://github.com/2tank/awita)
