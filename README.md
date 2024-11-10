@@ -20,8 +20,6 @@
 <li>Ethical Hacker by Cisco Networking Academy</li>
 </ul>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26d1ae90-23fc-4fd3-96e5-e8e55a11c140" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="131fe359-b4af-43d7-8484-1faaad47cb37" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <hr>
 <h3>⚡ Technologies:</h3>
