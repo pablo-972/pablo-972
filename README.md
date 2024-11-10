@@ -32,7 +32,7 @@ I'm also known as Sulkaz || Dygral
 
 
 ## 😺 GitHub stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-972&show_icons=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
 
 
 ## 📭 Connect with me:
