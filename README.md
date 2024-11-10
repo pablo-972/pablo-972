@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋</h1>
 
 
-<p>I'm Pablo, a Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || Dygral</p> 
+I'm Pablo, a Software Engineer and Cibersecurity student from 🇪🇸 </br> I'm also known as Sulkaz || Dygral
 
 <hr>
 <h3>🚀 Projects I've Contributed To: </h3>
@@ -16,9 +16,8 @@
 <h3>🎓 Certificates:</h3>
 
 - Dedalus Datathon Andalucía 2024 participant 
-- [Introduction to Cybersecurity course by Cisco Networking Academy](https://www.credly.com/badges/26d1ae90-23fc-4fd3-96e5-e8e55a11c140/public_url)
+- [![Introduction to Cybersecurity course by Cisco Networking Academy](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/26d1ae90-23fc-4fd3-96e5-e8e55a11c140/public_url)
 - [Ethical Hacker by Cisco Networking Academy](https://www.credly.com/badges/131fe359-b4af-43d7-8484-1faaad47cb37/public_url)
-
 
 
 <hr>
