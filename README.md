@@ -20,7 +20,7 @@
 <li>Ethical Hacker by Cisco Networking Academy</li>
 </ul>
 
-[Credly Badge]([https://img.shields.io/badge/Credly%20Badge-%20-green)
+![Credly Badge]([https://img.shields.io/badge/Credly%20Badge-%20-green)
 
 <hr>
 <h3>⚡ Technologies:</h3>
