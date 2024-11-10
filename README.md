@@ -1,11 +1,11 @@
-# Hi there!👋
+<h1 align="center">Hi there!👋</h1>
 
 I'm Pablo, a Software Engineer and Cibersecurity student from 🇪🇸  
 I'm also known as Sulkaz || Dygral
 
 
 
-## 🚀 Projects I've Contributed To:
+<h2>🚀 Projects I've Contributed To:</h2>
 
 - [Awita](https://github.com/2tank/awita)
 - [Chess2](https://github.com/VctPerez/Chess2-UMA)
@@ -14,7 +14,7 @@ I'm also known as Sulkaz || Dygral
 
 
 
-## 🎓 Certificates:
+<h2>🎓 Certificates:</h2>
 
 - Dedalus Datathon Andalucía 2024 participant
 - Cisco Networking Academy:
@@ -23,7 +23,7 @@ I'm also known as Sulkaz || Dygral
 
 
 
-## ⚡ Technologies:
+<h2>⚡ Technologies: </h2>
 
 <p align="left"> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
@@ -36,13 +36,13 @@ I'm also known as Sulkaz || Dygral
 </p>
 
 
-## 😺 GitHub stats:
+<h2>😺 GitHub stats: </h2> 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8)
 
 
 
-## 📭 Connect with me:
+<h2>📭 Connect with me:</h2>
 
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/pablo-972)  
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sulkaz00)
