@@ -16,11 +16,10 @@
 <h3>🎓 Certificates:</h3>
 <ul>
 <li>Dedalus Datathon Andalucía 2024 participant </li>
-<li>Introduction to Cybersecurity course by Cisco Networking Academy </li>
-<li>Ethical Hacker by Cisco Networking Academy</li>
+<li>[Introduction to Cybersecurity course by Cisco Networking Academy](https://www.credly.com/badges/26d1ae90-23fc-4fd3-96e5-e8e55a11c140/public_url) </li>
+<li>[Ethical Hacker by Cisco Networking Academy](https://www.credly.com/badges/131fe359-b4af-43d7-8484-1faaad47cb37/public_url)</li>
 </ul>
 
-[Credly Badge](https://www.credly.com/badges/26d1ae90-23fc-4fd3-96e5-e8e55a11c140/public_url)
 
 <hr>
 <h3>⚡ Technologies:</h3>
