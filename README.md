@@ -6,6 +6,7 @@ I'm also known as Sulkaz || Dygral
 
 
 <h2>🚀 Projects I've Contributed To:</h2>
+---
 
 - [Awita](https://github.com/2tank/awita)
 - [Chess2](https://github.com/VctPerez/Chess2-UMA)
