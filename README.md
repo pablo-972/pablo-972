@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋</h1>
 
-I'm Pablo, a Software Engineer and Cibersecurity student from 🇪🇸  
+I'm Pablo, a Software Engineer from 🇪🇸  
 I'm also known as Sulkaz || Dygral
 
 
