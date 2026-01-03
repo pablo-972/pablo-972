@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋</h1>
 
-I'm Pablo, a Software Engineer focused on Cibersecurity  
+I'm Pablo, a Software Engineer focused on Cybersecurity  
 I'm also known as Sulkaz 
 
 
