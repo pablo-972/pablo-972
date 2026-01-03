@@ -1,10 +1,11 @@
 <h1 align="center">Hi there!👋</h1>
 
 I'm Pablo, a Software Engineer from 🇪🇸  
-I'm also known as Sulkaz || Dygral
+I'm also known as Sulkaz 
 
 
 ## 🚀 Projects I've Contributed To:
+- [Presshammer](https://github.com/pablo-972/Presshammer-Analisis-experimental)
 - [Awita](https://github.com/2tank/awita)
 - [Chess2](https://github.com/VctPerez/Chess2-UMA)
 - [how2survive](https://github.com/pablomarquezb78/how2survive)
@@ -35,7 +36,7 @@ I'm also known as Sulkaz || Dygral
 
 
 ## 😺 GitHub stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-972&langs_count=8&bg_color=0d1117&title_color=ffffff&text_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)
 
 
 ## 📭 Connect with me:
