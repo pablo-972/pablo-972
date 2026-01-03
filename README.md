@@ -1,6 +1,6 @@
 <h1 align="center">Hi there!👋</h1>
 
-I'm Pablo, a Software Engineer from 🇪🇸  
+I'm Pablo, a Software Engineer focused on Cibersecurity  
 I'm also known as Sulkaz 
 
 
@@ -36,7 +36,8 @@ I'm also known as Sulkaz
 
 
 ## 😺 GitHub stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pablo-972&show_icons=true&count_private=true&hide=prs)
+
 
 
 ## 📭 Connect with me:
