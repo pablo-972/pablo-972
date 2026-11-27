@@ -11,7 +11,7 @@ I am currently learning about computer forensics and malware analysis, and devel
 ## 🚀 Projects I've Worked on:
 - [Presshammer](https://github.com/pablo-972/Presshammer-Analisis-experimental): full implementation and experimental study of Presshammer
 - [AIM](https://github.com/pablo-972/AIM): modular malware analysis system combining traditional tools, AI agents, and automated reporting
-- [Rustshot](https://github.com/pablo-972/Rustshot): registry snapshots and diffs for Windows malware analysis. A single static .exe with GUI and CLI, from Windows 7 to 11.
+- [Rustshot](https://github.com/pablo-972/Rustshot): registry snapshots and diffs for Windows malware analysis. A single .exe with GUI and CLI, from Windows 7 to 11.
 - [Adyn](https://github.com/pablo-972/Adyn): an android analysis lab. Set up with one command.
 
 <br>
